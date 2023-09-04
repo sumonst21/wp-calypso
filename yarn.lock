@@ -13825,11 +13825,11 @@ __metadata:
   linkType: hard
 
 "dns-packet@npm:^5.2.2":
-  version: 5.3.1
-  resolution: "dns-packet@npm:5.3.1"
+  version: 5.6.1
+  resolution: "dns-packet@npm:5.6.1"
   dependencies:
     "@leichtgewicht/ip-codec": ^2.0.1
-  checksum: 5e74ccd47437f936b81c1d93363c2a57ce78374159ea4893435b95961f09685adb048f72e6e09fcc5c38a08550e20b67dfbbd7c7fd9c2c9f24c8cf88c592fe46
+  checksum: 8948d3d03063fb68e04a1e386875f8c3bcc398fc375f535f2b438fad8f41bf1afa6f5e70893ba44f4ae884c089247e0a31045722fa6ff0f01d228da103f1811d
   languageName: node
   linkType: hard
 
